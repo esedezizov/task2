@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+   /* background-color: brown; */
+    width: 80%;
+    height: 100px;
+    margin: 0 auto;
+    align-items: center;
+    color: #ffff;
+    
+}
+nav ul{
+    display: flex;
+    gap: 30px;
+    
+}
+li a{
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+}
+h1{
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+main{
+    margin: 50px;
+}
+.button1{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-image: url(https://cdn.tourradar.com/s3/tour/1500x800/128011_75917a68.jpg);
+}
+h3{
+    color: #fff;
+}
+
+
+
